@@ -1,0 +1,74 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213310951447@s.whatsapp.net',
+    fromMe: false,
+    id: 'BA8A55D0C7ADBFA252B0659FD5500A9D',
+    participant: undefined
+  },
+  messageTimestamp: 1699230203,
+  pushName: 'Susana Hernández',
+  broadcast: false,
+  message: Message {
+    conversation: 'Xd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Xd',
+  from: '5213310951447'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f85f545e-93c4-43cb-acbb-0f4dfe5eeef1',
+  keyword: 'key_2b74262d-250a-4b01-903a-73595ccdea16',
+  answer: 'Bienvenido a mi ecommerce',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ea21eb88d5c8c69da302eeca6fd223da'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5213310951447@s.whatsapp.net',
+    fromMe: false,
+    id: '0EDFD44EB9142477A2BC71E89F38652F',
+    participant: undefined
+  },
+  messageTimestamp: 1699230206,
+  pushName: 'Susana Hernández',
+  broadcast: false,
+  message: Message {
+    conversation: 'Productos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Productos',
+  from: '5213310951447'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_41806eec-f303-4a06-b063-3f67e985eb1c',
+  keyword: 'key_2c920aac-5b64-4144-8980-7f828bb1b814',
+  answer: 'Estos son los productos que tenemos disponibles',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '7991a4e472daa24d6171c52ea9b6303b'
+}
